@@ -29,7 +29,7 @@ public class P02_CreateAccountPage {
     }
 
     public P02_CreateAccountPage enterEmail() {
-        Util.enterData(driver,emailLocator,"decaja4621@pixdd.com");
+        Util.enterData(driver,emailLocator,"raunexebraumme-8505@es.prout.be");
         return this;
     }
 
