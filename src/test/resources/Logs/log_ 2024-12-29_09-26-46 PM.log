@@ -1,0 +1,6 @@
+[% level] 29-12-2024 21:26:46 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] TC addFirstProductToCartTChas been started
+[% level] 29-12-2024 21:26:56 [main] [TC04_FirstProductTest.addFirstProductToCartTC(TC04_FirstProductTest.java:35)] The number of products in cart is 1
+[% level] 29-12-2024 21:26:56 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:15)] TC addFirstProductToCartTC has been passed
+[% level] 29-12-2024 21:27:33 [main] [Listeners.ITestResultListenerClass.onTestStart(ITestResultListenerClass.java:10)] TC addSecondProductToCartTChas been started
+[% level] 29-12-2024 21:28:33 [main] [TC04_FirstProductTest.addSecondProductToCartTC(TC04_FirstProductTest.java:44)] The number of products in cart is 2
+[% level] 29-12-2024 21:28:33 [main] [Listeners.ITestResultListenerClass.onTestSuccess(ITestResultListenerClass.java:15)] TC addSecondProductToCartTC has been passed

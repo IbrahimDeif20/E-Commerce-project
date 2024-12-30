@@ -1,0 +1,1 @@
+{"uuid":"39dbe432-236f-45e2-95b9-71baba19c2e6","name":"TC02_CreateAccountTest.quit","children":["d4ed1d62-4e98-4715-8c18-4ace6f978e7c"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1735479882706,"stop":1735479884277}],"start":1735479882705,"stop":1735479884277}
