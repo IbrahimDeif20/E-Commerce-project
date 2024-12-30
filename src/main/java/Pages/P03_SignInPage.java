@@ -15,8 +15,8 @@ public class P03_SignInPage {
     }
 
     public P03_SignInPage signIn(){
-        Util.enterData(driver,emailLocator,"ibrahim.deif123@gmail.com");
-        Util.enterData(driver,passwordLocator,"01115536961iI@");
+        Util.enterData(driver,emailLocator,"decaja4621@pixdd.com");
+        Util.enterData(driver,passwordLocator,"Test@1234");
         Util.clickOnElement(driver,signInButtonLocator);
         //https://magento.softwaretestingboard.com/customer/account/index/
         return new P03_SignInPage(driver);
